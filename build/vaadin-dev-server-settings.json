@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/Projects/task/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/Projects/task/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "D:/Projects/task/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\Projects\\task\\build\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\Projects\\task\\build\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/Projects/task/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/Projects/task/build/dev-bundle/config",
+  "jarResourcesFolder": "D:/Projects/task/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\Projects\\task\\build\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
